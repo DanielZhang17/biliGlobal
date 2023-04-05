@@ -11,7 +11,7 @@ const DataBase = {
 		}
 	},
     "Global":{
-		"Settings":{"Switch":true,"ForceHost":"1","Locales":["CHN","HKG","TWN"],"Proxies":{"CHN":"DIRECT","HKG":"🇭🇰香港","MAC":"🇲🇴澳门","TWN":"🇹🇼台湾"}},
+		"Settings":{"Switch":true,"ForceHost":"1","Locales":["CHN","HKG","TWN"],"Proxies":{"CHN":"CN","HKG":"🇭🇰香港","MAC":"🇲🇴澳门","TWN":"🇹🇼台湾"}},
 		"Configs":{
 			"SearchNav":{"CHN":{"name":"番剧🇨🇳","total":0,"pages":0,"type":17},"HKG":{"name":"动画🇭🇰","total":0,"pages":0,"type":27},"MAC":{"name":"动画🇲🇴","total":0,"pages":0,"type":37},"TWN":{"name":"动画🇹🇼","total":0,"pages":0,"type":47}}
 		}
